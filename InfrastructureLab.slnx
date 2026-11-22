@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="InfrastructureLab.ApiA/InfrastructureLab.ApiA.csproj" />
+    <Project Path="InfrastructureLab.ApiB/InfrastructureLab.ApiB.csproj" />
+    <Project Path="InfrastructureLab.ApiC/InfrastructureLab.ApiC.csproj" />
+  </Folder>
+</Solution>
